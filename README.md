@@ -1,1 +1,1 @@
-# telegram-bot-game
+Простая игра телеграм бота на PyTelegramBotAPI
